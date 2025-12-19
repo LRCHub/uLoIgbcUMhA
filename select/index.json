@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "指切りげんまん",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-19T05:30:25.373817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "指切りげんまん",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_指切りげんまん_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "指切りげんまん",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_指切りげんまん_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "指切りげんまん - Yubikrigenman",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/03_指切りげんまん_-_Yubikrigenman_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "指切りげんまん「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_指切りげんまん「www.jpopsingles.eu」_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "指切りげんまん (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5])\u001f「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_指切りげんまん_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5])_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "指切りげんまん",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_指切りげんまん_RADWIMPS.txt"
+    }
+  ]
+}
